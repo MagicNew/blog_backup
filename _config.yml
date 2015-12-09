@@ -3,16 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: MagicNiu's Blog
+subtitle: 随记、心得与悟	
+description: 嗨，我是牛坤，iOS攻城狮一枚。现居北京，就职于网易。
+author: MagicNiu
+email: magic.niukun@gmail.com
+keywords: "iOS,开发者,程序猿,Developer,Programmer,Coder,用户体验,UED,Swift"
+# language: 
+# timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://magicniu.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
